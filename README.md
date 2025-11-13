@@ -1,4 +1,7 @@
 # OPEN-SOURCE-EX-2
+# Name : SUJITH R B
+# Reg No : 25009845
+# Dept : CSE (CY)
 <img width="1145" height="848" alt="Screenshot 2025-09-22 091123" src="https://github.com/user-attachments/assets/ae7a6c0f-a4b1-4bfb-a9fa-bba382b41dec" />
 <img width="1268" height="890" alt="Screenshot 2025-09-22 161006" src="https://github.com/user-attachments/assets/6882e153-5b72-48f2-b848-1bbe912def53" />
 <img width="1153" height="864" alt="Screenshot 2025-09-22 161108" src="https://github.com/user-attachments/assets/1b987265-78c4-4a61-8de1-e56513083dab" />
